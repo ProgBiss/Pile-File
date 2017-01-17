@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1444265234 source:c:\users\nicolas\documents\nico\travaux\c\devoir2pilefile\file\file.c
+	"file.h"
+
+1444146282 c:\users\nicolas\documents\nico\travaux\c\devoir2pilefile\file\file.h
+	"liste_liee.h"
+	<stdbool.h>
+

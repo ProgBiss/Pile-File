@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1444180540 source:c:\users\nicolas\documents\nico\travaux\c\devoir2pilefile\pile_test\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pile.h"
+	"liste_liee.h"
+

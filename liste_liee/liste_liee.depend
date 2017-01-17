@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1442326746 source:c:\users\nicolas\documents\nico\travaux\c\devoir2pilefile\liste_liee\liste_liee\liste_liee.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"liste_liee.h"
+
+1440016412 c:\users\nicolas\documents\nico\travaux\c\devoir2pilefile\liste_liee\liste_liee\liste_liee.h
+	<stdbool.h>
+
+1445952976 source:c:\users\nicolas\documents\nico\travaux\c\devoir2pilefile\liste_liee\liste_liee.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"liste_liee.h"
+
+1440012812 c:\users\nicolas\documents\nico\travaux\c\devoir2pilefile\liste_liee\liste_liee.h
+	<stdbool.h>
+
